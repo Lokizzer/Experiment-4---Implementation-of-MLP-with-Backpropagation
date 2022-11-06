@@ -178,16 +178,15 @@ print(classification_report(y_test,predictions))
 
 Prediction:
 
-![1nn](https://user-images.githubusercontent.com/112338645/200165500-967eda4a-75f6-4428-b65b-981607f993cb.png)
+![1nn](https://user-images.githubusercontent.com/112338645/200165892-cf0284cd-dc22-46cc-86e9-d9975c3af27e.png)
 
 Confusion Matrix:
 
-![2nn](https://user-images.githubusercontent.com/112338645/200165505-4ae6ba35-d1d4-47ca-8620-fbef5c3b980d.png)
+![2nn](https://user-images.githubusercontent.com/112338645/200165909-d1576e53-9b39-4106-b657-ed554e57061e.png)
 
 Classification Report:
 
-![3nn](https://user-images.githubusercontent.com/112338645/200165518-0c4f01ef-4a66-4d38-bf89-06849863d001.png)
-
+![3nn](https://user-images.githubusercontent.com/112338645/200165914-96667ea3-e2ef-4b1b-97a9-a0dc17469901.png)
 
 ## RESULT
 
